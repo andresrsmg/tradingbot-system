@@ -1,0 +1,14 @@
+# Dependências básicas para trading bot
+pandas>=2.0.0
+numpy>=1.24.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+schedule>=1.2.0
+ta-lib>=0.4.0  # Para indicadores técnicos (opcional)
+ccxt>=4.0.0  # Para exchanges de cripto (opcional)
+
+# Para Interactive Brokers (se usar)
+# ibapi>=10.24.0
+
+# Para Alpaca (se usar)
+# alpaca-trade-api>=3.0.0
